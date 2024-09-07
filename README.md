@@ -51,7 +51,7 @@ make && ./cub3D maps/map.cub
 ## Run
 
 ```
-make bonus && ./cub3D_bonus	 maps/map_bonus.cub
+make bonus && ./cub3D_bonus maps/map_bonus.cub
 ```
 
 <div align="center">
